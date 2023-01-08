@@ -1,0 +1,12 @@
+{
+  "name": "tsa-space-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "nodemon": "^2.0.20"
+  }
+}
