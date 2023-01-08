@@ -12,4 +12,4 @@ app.get('/', (req, res, next) => {
   })
 });
 
-app.listen(port, () => console.log(`listening on port ${port}`))
+app.listen(port)
