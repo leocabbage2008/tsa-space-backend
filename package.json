@@ -6,7 +6,21 @@
     "start": "nodemon app.js"
   },
   "dependencies": {
+    "dayjs": "^1.11.7",
     "express": "~4.16.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocabbage2008/tsa-space-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocabbage2008/tsa-space-backend/issues"
+  },
+  "homepage": "https://github.com/leocabbage2008/tsa-space-backend#readme",
+  "keywords": [],
+  "description": ""
 }
